@@ -1,0 +1,16 @@
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.exe
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.deps.json
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.runtimeconfig.json
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.runtimeconfig.dev.json
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.dll
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\ref\Editor-HTML.dll
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\bin\Debug\net5.0\Editor-HTML.pdb
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.csproj.AssemblyReference.cache
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.AssemblyInfoInputs.cache
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.AssemblyInfo.cs
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.csproj.CoreCompileInputs.cache
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.dll
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\ref\Editor-HTML.dll
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.pdb
+C:\Users\Perfil Trabalho\Desktop\C#\Editor-HTML\obj\Debug\net5.0\Editor-HTML.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+using System;
+
+namespace EditorHTML
+{
+    public static class Menu
+    {
+        public static void Show()
+        {
+            Console.Clear();
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.Black;
+
+            DrawScreen();
+            WriteOptions();
+
+            var option = short.Parse(Console.ReadLine());
+        }
+
+        public static void DrawLine(int qtd, char charactere, char? extreme = null)
+        {
+            if (extreme != null)
+                Console.Write(extreme);
+
+            for (int i = 0; i <= qtd; i++)
+                Console.Write(charactere);
+
+            if (extreme != null)
+                Console.Write(extreme);
+
+            Console.Write(Environment.NewLine);
+
+        }
+
+        public static void DrawScreen()
+        {
+            DrawLine(30, '-', '+');
+
+            for (int lines = 0; lines <= 10; lines++)
+                DrawLine(30, ' ', '|');
+
+            DrawLine(30, '-', '+');
+
+
+        }
+
+
+        public static void WriteOptions()
+        {
+            Console.SetCursorPosition(3, 2);
+            Console.WriteLine("Editor HTML");
+            Console.SetCursorPosition(3, 3);
+            DrawLine(26, '=');
+            Console.SetCursorPosition(3, 4);
+            Console.WriteLine("Selecione uma opção abaixo");
+            Console.SetCursorPosition(3, 6);
+            Console.WriteLine("1 - Novo Arquivo");
+            Console.SetCursorPosition(3, 7);
+            Console.WriteLine("2 - Abrir");
+            Console.SetCursorPosition(3, 9);
+            Console.WriteLine("0 - Sair");
+            Console.SetCursorPosition(3,10);
+            Console.Write("Opção: ");
+        }
+    }
+
+}

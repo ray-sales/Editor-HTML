@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rayss\\.nuget\\packages\\": {},
+    "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
@@ -18,7 +18,7 @@
       "projectUniqueName": "C:\\Users\\Perfil Trabalho\\Desktop\\C#\\Editor-HTML\\Editor-HTML.csproj",
       "projectName": "Editor-HTML",
       "projectPath": "C:\\Users\\Perfil Trabalho\\Desktop\\C#\\Editor-HTML\\Editor-HTML.csproj",
-      "packagesPath": "C:\\Users\\rayss\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Perfil Trabalho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Perfil Trabalho\\Desktop\\C#\\Editor-HTML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -26,7 +26,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\rayss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Perfil Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
